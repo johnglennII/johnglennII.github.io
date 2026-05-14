@@ -20,6 +20,7 @@ Engineered and fabricated a highly robust inverted pendulum for NC State's contr
 *Matlab | Simulink | Model Predictive Control | Trajectory Optimization | Partial Feedback Linearization | Passivity-based Control*
 Developed both passivity-based partial feedback linearization and offline trajectory optimization (trapezoidal direct collocation) for underactuated swing-up control, reducing swing-up time from 19.1s to 4.3s
 Designed and tuned online model predictive controller (MPC) to track trajectory and stabilize the pendulum once within the domain of attraction (DoA) at desired equilibrium points
+<img src="https://raw.githubusercontent.com/johnglennII/Double-Inverted-Pendulum-Cart/refs/heads/main/media/traj_opt_gif.gif" width="75%" alt="Trajectory Optimization">
 
 ### [Spacecraft Orbit Determination & State Estimation](https://github.com/johnglennII/Orbit-Determination-EKF)
 *MATLAB | Extended Kalman Filter (EKF) | SRIF*
@@ -30,8 +31,6 @@ Developed an Iterated Square Root Information Filter and EKF from scratch to per
 *Optimal Control | LQG | MATLAB/Simulink*
 Designed a multi-input multi-output (MIMO) LQG control system for a 4-degree-of-freedom mechanical arm, improving harvest speed and stability. 
 ![Harvester CAD](./media/harvester-cad.png)
-
-<img src="https://raw.githubusercontent.com/johnglennII/Double-Inverted-Pendulum-Cart/refs/heads/main/media/traj_opt_gif.gif" width="75%" alt="Trajectory Optimization">
 
 ---
 
