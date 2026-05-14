@@ -21,10 +21,10 @@ Developed an Iterated Square Root Information Filter and EKF from scratch to per
 Designed a multi-input multi-output (MIMO) LQG control system for a 4-degree-of-freedom mechanical arm, improving harvest speed and stability. 
 ![Harvester CAD](./media/harvester-cad.png)
 
-### [Inverted Pendulum Cart Hardware Build](https://github.com/yourusername/Inverted-Pendulum)
+### [Inverted Pendulum on a Cart Build & Control](https://github.com/johnglennII/Inverted-Pendulum-on-a-Cart)
 *SolidWorks | Simulink Desktop Real-Time | Sliding Mode Control*
 Engineered and fabricated a highly robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC) to handle repeated student use and controller failures. 
-![Pendulum Hardware](./media/pendulum.gif)
+<img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-on-a-Cart/refs/heads/main/media/pendulum_assembly.PNG" width="50%" alt="Pendulum Assembly">
 
 ---
 
