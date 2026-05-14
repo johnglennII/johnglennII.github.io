@@ -1,6 +1,6 @@
 # John C. Glenn II
 **M.S. Mechanical Engineering | GNC & Robotics Engineer**
-[LinkedIn](https://linkedin.com/in/john-glenn-ii) | [Resume](./media/JohnGlennIIResume.pdf) | jcglenn@ncsu.edu
+| [LinkedIn](https://linkedin.com/in/john-glenn-ii) | [Resume](./media/JohnGlennIIResume.pdf) | jcglenn@ncsu.edu
 
 ---
 
