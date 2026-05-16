@@ -17,7 +17,7 @@ I am a recent MSME graduate from NC State specializing in Guidance, Navigation, 
 Engineered and fabricated a highly robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC) to handle repeated student use and controller failures.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/refs/heads/main/media/pendulum_assembly.PNG" width="75%" alt="Pendulum Assembly">
+  <img src="https://github.com/johnglennII/Inverted-Pendulum-Cart/blob/main/media/pendulum_assembly.png?raw=true" width="75%" alt="Pendulum Assembly">
 </p>
 
 ### [Double Inverted Pendulum on a Cart Swing-Up & Stabilization Control](https://github.com/johnglennII/Inverted-Pendulum-Cart)
@@ -43,7 +43,7 @@ Designed a multi-input multi-output (MIMO) LQG control system for a 4-dof mechan
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/johnglennII/Tomato-Harvester/refs/heads/main/media/control_sys_test_hardware.webp" width="29%" alt="Control System Demo" />
-  <img src="https://github.com/johnglennII/Tomato-Harvester/blob/main/media/simulink_control_sys.png?raw=true" width="69%" alt="V vs Pos" />
+  <img src="https://raw.githubusercontent.com/johnglennII/Tomato-Harvester/refs/heads/main/media/simulink_control_sys.png" width="69%" alt="V vs Pos" />
 </p>
 
 ---
