@@ -38,7 +38,7 @@ Developed an Iterated Square Root Information Filter and EKF from scratch to per
 </p>
 
 ### [Autonomous Tomato Harvester MIMO Control](https://github.com/johnglennII/Tomato-Harvester)
-*Optimal Control | LQG | MATLAB/Simulink*<br>
+*Optimal Control | LQG | System Identification | MATLAB/Simulink*<br>
 Designed a multi-input multi-output (MIMO) LQG control system for a 4-degree-of-freedom mechanical arm.
 
 <p align="center">
