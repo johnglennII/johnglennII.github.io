@@ -17,7 +17,7 @@ I am a recent MSME graduate from NC State specializing in Guidance, Navigation, 
 Engineered and fabricated a highly robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC) to handle repeated student use and controller failures.
 
 <p align="center">
-  <img src="https://github.com/johnglennII/Inverted-Pendulum-Cart/blob/main/media/pendulum_assembly.png?raw=true" width="75%" alt="Pendulum Assembly">
+  <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/main/media/pendulum_assembly.png" width="75%" alt="Pendulum Assembly">
 </p>
 
 ### [Double Inverted Pendulum on a Cart Swing-Up & Stabilization Control](https://github.com/johnglennII/Inverted-Pendulum-Cart)
