@@ -42,8 +42,8 @@ Developed an Iterated Square Root Information Filter and EKF from scratch to per
 Designed a multi-input multi-output (MIMO) LQG control system for a 4-degree-of-freedom mechanical arm.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnglennII/Tomato-Harvester/refs/heads/main/media/control_sys_test_hardware.webp" width="25%" alt="Control System Demo" />
-  <img src="https://raw.githubusercontent.com/johnglennII/Tomato-Harvester/refs/heads/main/media/V%20vs%20Positions.png" width="65%" alt="V vs Pos" />
+  <img src="https://raw.githubusercontent.com/johnglennII/Tomato-Harvester/refs/heads/main/media/control_sys_test_hardware.webp" width="29%" alt="Control System Demo" />
+  <img src="https://github.com/johnglennII/Tomato-Harvester/blob/main/media/simulink_control_sys.png?raw=true" width="69%" alt="V vs Pos" />
 </p>
 
 ---
