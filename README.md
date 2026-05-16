@@ -20,7 +20,7 @@ Engineered and fabricated a highly robust inverted pendulum for NC State's contr
   <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/main/media/pendulum_assembly.png" width="75%" alt="Pendulum Assembly">
 </p>
 
-### [Double Inverted Pendulum on a Cart Swing-Up & Stabilization Control](https://github.com/johnglennII/Inverted-Pendulum-Cart)
+### [Double Inverted Pendulum on a Cart Swing-Up & Stabilization Control](https://github.com/johnglennII/Double-Inverted-Pendulum-Cart)
 *Matlab | Simulink | Model Predictive Control | Trajectory Optimization | Partial Feedback Linearization | Passivity-based Control*<br>
 Developed both passivity-based partial feedback linearization and offline trajectory optimization (trapezoidal direct collocation) for underactuated swing-up control, reducing swing-up time from 19.1s to 4.3s
 Designed and tuned online model predictive controller (MPC) to track trajectory and stabilize the pendulum once within the domain of attraction (DoA) at desired equilibrium points
