@@ -26,7 +26,7 @@ Developed both passivity-based partial feedback linearization and offline trajec
 Designed and tuned online model predictive controller (MPC) to track trajectory and stabilize the pendulum once within the domain of attraction (DoA) at desired equilibrium points
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnglennII/Double-Inverted-Pendulum-Cart/refs/heads/main/media/trajectory_optimization/traj_opt_gif.gif" width="75%" alt="Trajectory Optimization">
+  <img src="https://raw.githubusercontent.com/johnglennII/Double-Inverted-Pendulum-Cart/refs/heads/main/media/trajectory_optimization/trajectory_optimization_vid.webp" width="75%" alt="Trajectory Optimization">
 </p>
 
 ### [Spacecraft Orbit Determination & State Estimation](https://github.com/johnglennII/Orbit-Determination-EKF)
