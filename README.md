@@ -52,6 +52,6 @@ Designed a multi-input multi-output (MIMO) LQG control system for a 4-dof mechan
 
 ## Core Skills
 * **Control Theory:** LQR, SMC, MPC, Feedback Linearization, Passivity-based Control, Gain Scheduling, Optimal Control, Trajectory Optimization, System Identification, PID
-* **State Estimation:** Kalman Filter, EKF, SRIF
+* **State Estimation:** Kalman Filter, EKF, SRIF, Spacecraft Navigation
 * **Software/Tools:** MATLAB, Simulink, Simulink Desktop Real-Time (SDRT), Python, Mujoco, SolidWorks, Fusion360
-* **Hardware:** Oscilloscope, Signal Generator, Microcontrollers, Motor Control, Vertical Mill, 3D Printing, Soldering, HIL Simulation
+* **Hardware:** Oscilloscope, Signal Generator, Microcontrollers, Motor Control, HIL Simulation, Vertical Mill, 3D Printing, Soldering
