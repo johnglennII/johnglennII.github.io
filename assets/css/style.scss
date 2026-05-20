@@ -2,6 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-#header_wrap, #main_content_wrap, #footer_wrap {
-  max-width: 1400px !important; /* Change this number to make it wider or narrower */
+/* This targets the inner content box, leaving the background wraps at 100% */
+.inner {
+  max-width: 1200px !important; 
 }
