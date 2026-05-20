@@ -22,7 +22,7 @@ Designed and tuned online model predictive controller (MPC) to track trajectory 
 </p>
 
 ### [Inverted Pendulum on a Cart Build & Control](https://github.com/johnglennII/Inverted-Pendulum-Cart)
-*SolidWorks | Simulink Desktop Real-Time | Sliding Mode Control*<br>
+*MATLAB | Simulink Desktop Real-Time | Sliding Mode Control | SolidWorks*<br>
 Designed and fabricated a robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC).
 
 <p align="center">
@@ -51,7 +51,7 @@ Designed a multi-input multi-output (MIMO) LQG control system for a 4-dof mechan
 ---
 
 ## Core Skills
-* **Control Theory:** LQR, SMC, MPC, PID Tuning
-* **State Estimation:** EKF, SRIF, Sensor Fusion
-* **Software/Tools:** MATLAB, Simulink, Python, Mujoco, SolidWorks, C++
+* **Control Theory:** LQR, SMC, MPC, 
+* **State Estimation:** Kalman Filter, EKF, SRIF
+* **Software/Tools:** MATLAB, Simulink, Python, Mujoco, SolidWorks
 * **Hardware:** Microcontrollers, 3D Printing, Machining, Soldering
