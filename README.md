@@ -14,7 +14,7 @@ I am a recent MSME graduate from NC State specializing in Guidance, Navigation, 
 
 ### [Double Inverted Pendulum on a Cart Swing-Up & Stabilization Control](https://github.com/johnglennII/Double-Inverted-Pendulum-Cart)
 *Matlab | Simulink | Model Predictive Control | Trajectory Optimization | Partial Feedback Linearization | Passivity-based Control*<br>
-Developed both passivity-based partial feedback linearization and offline trajectory optimization (trapezoidal direct collocation) for underactuated swing-up control, reducing swing-up time from 19.1s to 4.3s
+Developed both passivity-based partial feedback linearization and offline trajectory optimization (trapezoidal direct collocation) for underactuated swing-up control, reducing swing-up time from 19.1s to 4.3s.
 Designed and tuned online model predictive controller (MPC) to track trajectory and stabilize the pendulum once within the domain of attraction (DoA) at desired equilibrium points
 
 <p align="center">
