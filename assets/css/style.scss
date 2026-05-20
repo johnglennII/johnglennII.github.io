@@ -1,0 +1,7 @@
+---
+---
+@import "{{ site.theme }}";
+
+#header_wrap, #main_content_wrap, #footer_wrap {
+  max-width: 1400px !important; /* Change this number to make it wider or narrower */
+}
