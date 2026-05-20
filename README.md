@@ -23,10 +23,11 @@ Designed and tuned online model predictive controller (MPC) to track trajectory 
 
 ### [Inverted Pendulum on a Cart Build & Control](https://github.com/johnglennII/Inverted-Pendulum-Cart)
 *SolidWorks | Simulink Desktop Real-Time | Sliding Mode Control*<br>
-Engineered and fabricated a highly robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC) to handle repeated student use and controller failures.
+Designed and fabricated a robust inverted pendulum for NC State's controls curriculum. Implemented sliding mode control (SMC).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/main/media/pendulum_assembly.png" width="75%" alt="Pendulum Assembly">
+  <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/refs/heads/main/media/SMC/SMC_hardware.webp" width="49%" alt="Control System Hardware Video">
+  <img src="https://raw.githubusercontent.com/johnglennII/Inverted-Pendulum-Cart/refs/heads/main/media/SMC/SMC_sim.webp" width="49%" alt="SMC Simulation Video"/>
 </p>
 
 <!--
